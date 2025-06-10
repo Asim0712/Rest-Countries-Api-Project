@@ -48,5 +48,8 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 
 ## Deployment
+**[GitHub Repo]** [https://github.com/Asim0712/Rest-Countries-Api-Project.git]
+**[project link]**[http://127.0.0.1:5500/Mod7/rest-countries-api-with-color-theme-switcher-master/src/index.html]
+
 
 
