@@ -48,8 +48,36 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 
 ## Deployment
-**[GitHub Repo]** [https://github.com/Asim0712/Rest-Countries-Api-Project.git]
-**[project link]**[http://127.0.0.1:5500/Mod7/rest-countries-api-with-color-theme-switcher-master/src/index.html]
+- **[GitHub Repo]** [https://github.com/Asim0712/Rest-Countries-Api-Project.git]
+- **[Project link]**[http://127.0.0.1:5500/Mod7/rest-countries-api-with-color-theme-switcher-master/src/index.html]
+
+## Design Implementation
+- Blue 900 (Dark Mode Elements): hsl(209, 23%, 22%)
+- Blue 950 (Dark Mode Background): hsl(207, 26%, 17%)
+- Grey 950 (Light Mode Text): hsl(200, 15%, 8%)
+- Grey 400 (Light Mode Input): hsl(0, 0%, 50%)
+- Grey 50 (Light Mode Background): hsl(0, 0%, 99%)
+- White (Dark Mode Text & Light Mode Elements): hsl(0, 100%, 100%)
+### Body Copy
+- Homepage Items: 14px
+- Detail Page: 16px
+### Fonts
+- Family: [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)
+- Weights: 300, 600, 800
+
+## Challenge Goals
+- API Integration: Successfully fetch and display country data
+- Search Implementation: Create a functional search component
+- Filter Functionality: Implement region-based filtering
+- Detailed View: Build a separate page for country details
+- Border Navigation: Link border countries to their detail pages
+- Responsive Design: Adapt layout for different screen sizes
+- Dark Mode: Implement theme toggling (bonus)
+-Sorting (A-Z)(Z-A)
 
 
+## Author:  Asim Daud Khan
 
+
+## Acknowledgments
+I really loved working on this project as it helped me to learn new things and drive me through deep learning and exploring. I would like to Thank to our Mentors and peers who assisted during our Labs and course.
